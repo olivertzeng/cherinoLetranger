@@ -16,3 +16,8 @@ https://sketchfab.com/3d-models/blue-archive-weapon-kurodate-haruna-fce3850f0e26
 
 And lastly credits to the guy making Crowbar, VTFedit, and GCFScape, and also the guy redistributing it as AUR
 https://aur.archlinux.org/account/defusq
+
+## In Progress
+- [ ] Backpack icon
+- [ ] Fix when cloaking the revolver does not dissappear
+- [ ] Fix when killbinding with this weapon the weapon dissappear
