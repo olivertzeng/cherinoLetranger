@@ -1,4 +1,4 @@
-# Team-colored cherinoLetranger
+Team-colored cherinoLetranger
 A mod replacing the L'etranger with Cherino's gun Chistka from Blue Archive
 
 This is team-colored
@@ -14,12 +14,7 @@ so credits to the Linux build of the studiomdl MDLForge as well
 https://github.com/programmer1o1/MDLForge
 
 Credits to the original guy who got the original Blue Archive model
-https://sketchfab.com/3d-models/blue-archive-weapon-kurodate-haruna-fce3850f0e264b32b74caa083f40f954
+https://sketchfab.com/3d-models/blue-archive-weapon-renkawa-cherino-0035787203ee46039dd9a16e0d4f6787
 
 And lastly credits to the guy making Crowbar, VTFedit, and GCFScape, and also the guy redistributing it as AUR
 https://aur.archlinux.org/account/defusq
-
-## ~~In Progress~~ Done
-- [x] Backpack icon
-- [x] Fix when cloaking the revolver does not dissappear
-- [x] Fix when killbinding with this weapon the weapon dissappear
