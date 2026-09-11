@@ -1,0 +1,12 @@
+{
+  "uid": "0035787203ee46039dd9a16e0d4f6787",
+  "name": "[Blue Archive Weapon] - Renkawa Cherino",
+  "file_name": "[Blue_Archive_Weapon]_-_Renkawa_Cherino",
+  "author": "yochan.176",
+  "description": "Renkawa Cherino Weapon - Chistka\nExtracted from in-game file, ALL COPYRIGHTS GOES TO NEXON GAMES &amp; NAT GAMES",
+  "source_url": "https://sketchfab.com/3d-models/blue-archive-weapon-renkawa-cherino-0035787203ee46039dd9a16e0d4f6787",
+  "output": "/home/olivertzeng/sketchfab-cli/downloads/[Blue_Archive_Weapon]_-_Renkawa_Cherino-00357872/[Blue_Archive_Weapon]_-_Renkawa_Cherino.gltf",
+  "format": "gltf",
+  "textures": 2,
+  "note": "Prefer glTF via osgconv; fallback pure-python glTF; textures in textures/"
+}
